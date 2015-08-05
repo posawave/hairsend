@@ -38,6 +38,7 @@ gem 'font-awesome-sass'
 gem 'carrierwave'
 gem 'fog'
 gem 'figaro'
+gem "mini_magick"
 
 # Use postgresql as the database for production
 group :production do
