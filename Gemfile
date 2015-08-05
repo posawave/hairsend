@@ -33,12 +33,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'bootstrap-sass'
 gem 'font-awesome-sass'
 gem 'carrierwave'
 gem 'fog'
 gem 'figaro'
 gem "mini_magick"
+gem 'devise'
 
 # Use postgresql as the database for production
 group :production do
